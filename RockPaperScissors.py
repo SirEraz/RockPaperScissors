@@ -24,8 +24,20 @@ if menu == 1:
 elif menu == 2:
 ## playerHand = 2:
 ## cpuHand = random.randint(1,3)
-## if cpuHand == playerHand
+## if cpuHand == playerHand:
+## ## ---
+## if cpuHand = 1:
+## ## ---
+## if cpuHand = 3:
+## ## ---
 elif menu == 3:
-##
+## playerHand = 3:
+## cpuHand = random.randint(1,3)
+## if cpuHand == playerHand:
+## ## ---
+## if cpuHand = 1:
+## ## ---
+## if cpuHand = 2:
+## ## --- 
 else:
 ## break 
